@@ -1,5 +1,5 @@
 /* 三目标日常规划器 Service Worker —— 离线缓存 + 可安装 (PWA) */
-const CACHE = 'planner-gh-pages-v1';
+const CACHE = 'planner-gh-pages-v2';
 const ASSETS = [
   './',
   './index.html',
